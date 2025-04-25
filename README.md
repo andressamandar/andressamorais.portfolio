@@ -8,3 +8,5 @@ Este repositório contém uma seleção de meus trabalhos, incluindo:
 
 - **Artes para a Igreja**: Designs criados para apoiar a comunicação visual em eventos e atividades da igreja.
 - **Artes para Empresas**: Projetos desenvolvidos para atender às necessidades de comunicação visual de empresas.
+
+(PORTFÓLIO AINDA EM CONSTRUÇÃO)
